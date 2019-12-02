@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">NewsStory</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">蒙奇·D·路飞</string>
+    <string name="nav_header_subtitle">我是要成为海贼王的男人！</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">设置</string>
+    <string-array name="main_titles">
+        <item>@string/fragment_news_1</item>
+        <item>@string/fragment_news_2</item>
+        <item>@string/fragment_news_3</item>
+        <item>@string/fragment_news_4</item>
+        <item>@string/fragment_news_5</item>
+        <item>@string/fragment_news_6</item>
+        <item>@string/fragment_news_7</item>
+    </string-array>
+
+    <string name="fragment_news_1">社会</string>
+    <string name="fragment_news_2">国内</string>
+    <string name="fragment_news_3">国际</string>
+    <string name="fragment_news_4">娱乐</string>
+    <string name="fragment_news_5">体育</string>
+    <string name="fragment_news_6">科技</string>
+    <string name="fragment_news_7">健康</string>
+
+    <string-array name="meinv_titles">
+        <item>@string/fragment_meinv_1</item>
+        <item>@string/fragment_meinv_2</item>
+        <item>@string/fragment_meinv_3</item>
+        <item>@string/fragment_meinv_4</item>
+    </string-array>
+
+    <string name="fragment_meinv_1">社会新闻</string>
+    <string name="fragment_meinv_2">国内新闻</string>
+    <string name="fragment_meinv_3">国际新闻</string>
+    <string name="fragment_meinv_4">娱乐新闻</string>
+
+
+
+    <string name="login">登录</string>
+    <string name="password">密码</string>
+    <string name="register_password">输入密码</string>
+    <string name="confirm_password">确定密码</string>
+    <string name="account">账号</string>
+    <string name="register_account">注册账号</string>
+    <string name="register">立即注册</string>
+    <string name="welcome">Welcome</string>
+    <string name="Prompt">手机号/邮箱</string>
+    <string name="Prompt_passwrod">请填写密码</string>
+    <string name="Prompt_confirm_passwrod">请确定密码</string>
+    <string name="Forget_password">忘记密码?</string>
+    <string name="user_register">用户注册</string>
+
+
+</resources>
